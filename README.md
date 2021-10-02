@@ -80,3 +80,9 @@ Time Complexity: O(N) where N is the number of nodes in the given input tree.
 
 Space Complexity: O(N), the size of the graph.
 ```
+
+# References :
+https://github.com/eMahtab/closest-leaf-in-a-binary-tree
+
+# Similar Question :
+Closest leaf in a binary tree https://leetcode.com/problems/closest-leaf-in-a-binary-tree
