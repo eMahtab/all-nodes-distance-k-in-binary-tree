@@ -9,6 +9,10 @@ Given the root of a binary tree, the value of a target node target, and an integ
 
 ![All nodes distance k in binary tree](all-nodes-distance-k-in-binary-tree.jpg?raw=true)
 
+## Approach : Create graph from the given tree and BFS
+We will first create a graph from the given binary tree.
+Once we have the graph, all we need to do is, to find all the nodes which have distance k from the targetNode using BFS (start BFS from targetNode).
+
 # Implementation :
 ```java
 /**
